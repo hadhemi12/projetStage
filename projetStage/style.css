@@ -1,0 +1,21 @@
+li {
+   display: inline;
+   float: right;
+  width: 100px;
+ }
+ h1 {
+   text-align: left;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   font-size: 50px;
+   padding-top: 100px; /* Ajoute une marge supérieure interne pour translater le texte vers le bas */
+ }
+ img{
+   float: right;
+   margin-left: -3cm;
+   margin-top: -250px;
+   margin-bottom: -250px;
+   
+ }
+ 
+ 
